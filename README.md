@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anvic
 
-<!--
-**anvicdelossantos/anvicdelossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Computer Science student at FEU Alabang with a passion for building practical and intelligent software solutions.
 
-Here are some ideas to get you started:
+### ⌨️ Tools & Tech
+- **Languages:** Python, C++, Java
+- **Design:** Figma, Adobe Photoshop
+- **Dev:** Unity Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💾 Projects & Experience
+- **ThrowAway** - Smart waste segregation system using CNN 
+- **Bookbound** - Subscription based E-Book platform 
+- **Hysteria** - A mobile game featuring procedural generation using Fisher-Yates algorithm
+
+### 🎯 Currently Learning
+- More advanced AI/ML techniques  
+- System design & software engineering practices
