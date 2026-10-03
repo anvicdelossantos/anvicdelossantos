@@ -1,17 +1,19 @@
-# Hi, I'm Anvic
+# Hi, I'm Anvic 👋
 
-I'm a 4th-year Computer Science student at FEU Alabang with a passion for building practical and intelligent software solutions.
+I'm a Computer Science graduate (Software Engineering) from FEU Alabang, with hands-on experience building AI/ML and full-stack applications through an AI internship and independent projects.
 
 ### ⌨️ Tools & Tech
-- **Languages:** Python, C++, Java
-- **Design:** Figma, Adobe Photoshop
-- **Dev:** Unity Engine
+- **Languages:** Python, Java, C++, C#, JavaScript, HTML/CSS
+- **AI/ML:** TensorFlow, OpenCV, PyTorch
+- **Backend:** FastAPI, Flask
 
 ### 💾 Projects & Experience
-- **ThrowAway** - Smart waste segregation system using CNN 
-- **Bookbound** - Subscription based E-Book platform 
-- **Hysteria** - A mobile game featuring procedural generation using Fisher-Yates algorithm
+- **AI Intern @ Lamina Studios** — Built *Media Processing AI* (Flask + OpenCV + TensorFlow for traffic monitoring/object detection) and the *Smart AI Logistics Intelligence System* (FastAPI + ML + n8n automation)
+- **ThrowAway** - Smart waste segregation system using CNN + YOLO, achieving 99.56% classification accuracy
+- **Planhour** - Full-stack task management app (FastAPI, SQLite, vanilla JS), packaged as a cross-platform desktop app
+- **Project M.R.V.N.** - A locally-running, personal AI assistant (Gemini, Gmail API, Telegram)
 
 ### 🎯 Currently Learning
-- More advanced AI/ML techniques  
-- System design & software engineering practices
+- Advanced AI/ML techniques
+- System design & backend engineering practices
+- Preparing for entry-level Software Engineering / AI roles
